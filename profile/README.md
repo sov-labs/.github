@@ -22,7 +22,7 @@
 # Hi there 👋 
 ## 🎯 Welcome to SOV Labs! 
 
-We're a made-in-Vietnam innovation hub 🏄‍♂️ — blending code, creativity, and charisma to build tools that are a little quirky and a lot powerful.  
+We're a made-in-Vietnam innovation startup 🏄‍♂️ — blending code, creativity, and charisma to build tools that are a little quirky and a lot powerful.  
 If you vibe with smart tech, bold ideas, you're in the right place!
 
 ### Contribution Guidelines
